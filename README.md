@@ -17,3 +17,16 @@ Author : Jinwoo Jang
 ![inf_2](https://user-images.githubusercontent.com/50437310/178749783-b32aa054-1ae2-45a8-a765-2a748ef34b06.png)
 ![inf_8](https://user-images.githubusercontent.com/50437310/178749895-e7247230-7ec2-47af-b88a-a2a327b36bc5.jpeg)
 
+import torch
+
+# Model
+model = torch.hub.load('ultralytics/yolov5', 'yolov5s')  # or yolov5n - yolov5x6, custom
+
+# Images
+img = 'https://ultralytics.com/images/zidane.jpg'  # or file, Path, PIL, OpenCV, numpy, list
+
+# Inference
+results = model(img)
+
+# Results
+results.print()  # or .show(), .save(), .crop(), .pandas(), etc.
