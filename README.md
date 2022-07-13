@@ -9,6 +9,8 @@ Author : Jinwoo Jang
 ## Description
 ---
 
+차량 파손 데이터를 이용하여 Object Detection(YOLOv5)을 이용하여 파손 부위를 Detection하는 Project
+
 ![inf_4](https://user-images.githubusercontent.com/50437310/178749754-ea4b11c0-6d11-4d73-aea7-d1aac0b0590f.jpeg)
 ![inf_3](https://user-images.githubusercontent.com/50437310/178749767-199e5b8d-7e29-4e4d-ab5a-e16014b2788c.png)
 ![inf_2](https://user-images.githubusercontent.com/50437310/178749783-b32aa054-1ae2-45a8-a765-2a748ef34b06.png)
