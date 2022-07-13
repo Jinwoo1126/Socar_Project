@@ -17,7 +17,7 @@ Author : Jinwoo Jang
 ![inf_2](https://user-images.githubusercontent.com/50437310/178749783-b32aa054-1ae2-45a8-a765-2a748ef34b06.png)
 ![inf_8](https://user-images.githubusercontent.com/50437310/178749895-e7247230-7ec2-47af-b88a-a2a327b36bc5.jpeg)
 
-### detection logic
+## Detection logic
 
 Queue를 이용하여 queue안에 있는 class로 판단
 
