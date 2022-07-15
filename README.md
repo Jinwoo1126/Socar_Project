@@ -1,4 +1,4 @@
-# Socar_Project
+# Socar_Project : Vehicle Damage Detection using Video Data
 ---
 
 This project contains content for vehicle damage detection using video.
