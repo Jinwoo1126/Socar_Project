@@ -22,8 +22,9 @@ Here is some examples for frame images
 ![inf_8](https://user-images.githubusercontent.com/50437310/178749895-e7247230-7ec2-47af-b88a-a2a327b36bc5.jpeg)
 
 ## Detection logic
+---
 
-Use Queue and Confirm rate
+Using the queue and the confirm rate, if the same class in the queue has more than the confirm rate, it is decided that the class has an actual error.
 
 ```python
 ## in detect.py
