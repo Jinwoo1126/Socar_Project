@@ -21,6 +21,15 @@ Here is some examples for frame images
 ![inf_2](https://user-images.githubusercontent.com/50437310/178749783-b32aa054-1ae2-45a8-a765-2a748ef34b06.png)
 ![inf_8](https://user-images.githubusercontent.com/50437310/178749895-e7247230-7ec2-47af-b88a-a2a327b36bc5.jpeg)
 
+## Run detect.py
+---
+
+
+```python
+!python detect.py --weight /content/drive/MyDrive/Colab_Notebooks/yolov5/runs/train/socar_hackathon_yolov5m4/weights/best.pt --source "{test_video}" 
+```
+
+
 ## Detection logic
 ---
 
