@@ -24,9 +24,10 @@ Here is some examples for frame images
 ## Run detect.py
 ---
 
+1. replace detect.py in YOLOv5 to <font color = 'red' ><b>provided detect.py</b></font>
 
 ```python
-!python detect.py --weight /content/drive/MyDrive/Colab_Notebooks/yolov5/runs/train/socar_hackathon_yolov5m4/weights/best.pt --source "{test_video}" 
+!python detect.py --weight yolov5_trained_pt/train/socar_hackathon_yolov5m4/weights/best.pt --source "{video_sample}" 
 ```
 
 
