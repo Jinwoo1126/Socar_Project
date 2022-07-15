@@ -8,7 +8,7 @@ Author : Jinwoo Jang
 <a href="https://colab.research.google.com/drive/1azkWsrOhVkZfQKse6MQEff5WpChougP9"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
 
 
-## Description <a href="https://buttery-gambler-1c2.notion.site/Socar-Hackerton-11-1434cfce47674f18a5690c0d63d93453"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" alt="Open In Notion" width="30" height="30"></a> 
+## Description <a href="https://buttery-gambler-1c2.notion.site/Socar-Hackerton-11-1434cfce47674f18a5690c0d63d93453"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" alt="Open In Notion" width="22" height="22"></a> 
 ---
 
 차량 파손 데이터를 이용하여 Object Detection(YOLOv5)을 이용하여 파손 부위를 Detection하는 Project
