@@ -8,8 +8,10 @@ Author : Jinwoo Jang
 <a href="https://colab.research.google.com/drive/1azkWsrOhVkZfQKse6MQEff5WpChougP9"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
 
 
+<div align="center">
 ## Description <a href="https://buttery-gambler-1c2.notion.site/Socar-Hackerton-11-1434cfce47674f18a5690c0d63d93453"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" alt="Open In Notion" width="22" height="22"></a> 
 ---
+</div>
 
 This project deals with the problem of object detection, which uses video data to determine whether a vehicle is damaged or not.<br>
 especially, in this project, YOLOv5 is used as the object detection model.<br><br>
