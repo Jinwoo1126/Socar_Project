@@ -7,7 +7,7 @@ Author : Jinwoo Jang
 
 <a href="https://colab.research.google.com/drive/1azkWsrOhVkZfQKse6MQEff5WpChougP9"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
 
-<a href="https://buttery-gambler-1c2.notion.site/Socar-Hackerton-11-1434cfce47674f18a5690c0d63d93453"><img src="![image](https://user-images.githubusercontent.com/50437310/179192488-2a70c4c2-0e9d-4d86-9fc3-5b8a04e33b1f.png)" alt="Open In Notion"></a>
+<a href="https://buttery-gambler-1c2.notion.site/Socar-Hackerton-11-1434cfce47674f18a5690c0d63d93453"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" alt="Open Notion Description"></a>
 
 ## Description
 ---
