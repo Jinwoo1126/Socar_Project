@@ -23,6 +23,7 @@ Here is some examples for frame images
 ---
 
 1. replace detect.py in YOLOv5 to <b>provided detect.py</b>
+2. run detect.py using provided <b>best.py</b>
 
 ```python
 !python detect.py --weight yolov5_trained_pt/train/socar_hackathon_yolov5m4/weights/best.pt --source "{video_sample}" 
