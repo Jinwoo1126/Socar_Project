@@ -11,7 +11,10 @@ Author : Jinwoo Jang
 ## Description <a href="https://buttery-gambler-1c2.notion.site/Socar-Hackerton-11-1434cfce47674f18a5690c0d63d93453"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" alt="Open In Notion" width="22" height="22"></a> 
 ---
 
-차량 파손 데이터를 이용하여 Object Detection(YOLOv5)을 이용하여 파손 부위를 Detection하는 Project
+This project deals with the problem of object detection, which uses video data to determine whether a vehicle is damaged or not.
+especially, in this project, YOLOv5 is used as the object detection model.
+
+Here is some examples for frame img
 
 ![inf_4](https://user-images.githubusercontent.com/50437310/178749754-ea4b11c0-6d11-4d73-aea7-d1aac0b0590f.jpeg)
 ![inf_3](https://user-images.githubusercontent.com/50437310/178749767-199e5b8d-7e29-4e4d-ab5a-e16014b2788c.png)
@@ -20,7 +23,7 @@ Author : Jinwoo Jang
 
 ## Detection logic
 
-Queue를 이용하여 queue안에 있는 class로 판단
+Use Queue and Confirm rate
 
 ```python
 ## in detect.py
